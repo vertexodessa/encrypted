@@ -1,0 +1,3 @@
+* filter=openssl diff=openssl
+.git* !filter !diff
+init.txt !filter !diff
